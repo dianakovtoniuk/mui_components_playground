@@ -1,4 +1,4 @@
-# mui-components-playground
+# MUI Components Playground
 
 A playground for exploring Material UI components. Each component comes in two versions: `_functionality` with the default behavior and `_customization` restyled with the `sx` prop.
 
