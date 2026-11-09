@@ -5,6 +5,8 @@ import {
   AppBarCustomization,
   CardFunctionality,
   CardCustomization,
+  PaperFunctionality,
+  PaperCustomization,
 } from "./components";
 
 export default function App() {
