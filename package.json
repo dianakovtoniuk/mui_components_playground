@@ -14,10 +14,11 @@
     "@emotion/react": "11.11.3"
   },
   "devDependencies": {
+    "@types/node": "16.18.68",
     "@types/react": "18.2.38",
     "@types/react-dom": "18.0.9",
     "loader-utils": "3.2.1",
-    "typescript": "4.4.2"
+    "typescript": "4.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
